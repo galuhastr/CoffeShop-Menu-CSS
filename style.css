@@ -9,6 +9,10 @@
     text-align: left;
 }
 
+.price {
+    text-align: right;
+}
+
 h1, h2, p {
     text-align: center;
 }
