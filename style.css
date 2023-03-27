@@ -30,5 +30,6 @@ h1, h2, p {
 }
 
 body {
+    font-family: sans-serif;
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
   }
