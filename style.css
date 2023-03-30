@@ -36,6 +36,10 @@
     margin-top: 25px;
   }
 
+.address {
+  margin-bottom: 5px;
+}
+
 h1, h2, p {
     text-align: center;
 }
